@@ -1,5 +1,7 @@
 package hu.bme.mit.spaceship;
 
+// reset test
+
 /**
 * Weapon firing mode enumeration
 *
